@@ -8,7 +8,7 @@
 
 ## `async/await`
 
-
+[![Build status](https://ci.appveyor.com/api/projects/status/tf2i2rvd45s4cdfh?svg=true)](https://ci.appveyor.com/project/BudTon/promises-async-async-await)
 
 ### Легенда
 
